@@ -16,20 +16,6 @@ apartments. The application aims to provide all the services required for the Ma
 company to operate as normal Leasing office and as additional feature provide an option to lease
 an apartment for the short term.
 
-### Scope of the Application
-This Application will be primarily used to manage all the short term and long term rental
-transactions for each of the apartment buildings managed under an Apartment Management
-company. This application is aimed to cater to the needs of both the Management Staff and the
-guest to manage apartments and apply for apartments respectively. The Management Staffs will
-be able to use the application to update all the information regarding the apartment buildings
-such as type of Apartments, Number of units, Facilities available for each apartment and
-apartment booking status, The staffs would also be able to generate reports to find the
-availability of any specific apartment and details of guests residing at their apartment building.
-Staff’s would also be able to assign an available apartment to any new guest and on the other
-hand guest would also have an option to register and apply for an apartment based on the
-availability directly through the application. The guest would be able to manage their profile
-information such as Name, Contact Number, Contact Email Id.
-
 ### SCHEMA
 LIST OF TABLES AND THEIR FIELDS BELOW:
 Below are the list of database tables and their fields that will be used for this website.

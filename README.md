@@ -1,4 +1,4 @@
-# Apartment Management Web Application
+# Apartment Management System Web Application
 
 The main aim of the project is to provide utility to maintain day to day operations of apartments.
 The project helps to book apartment, add apartment, view apartment by the user.
